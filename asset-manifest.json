@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/monkey-theme-website/static/css/main.162a34a7.chunk.css",
+    "main.js": "/monkey-theme-website/static/js/main.29786d3c.chunk.js",
+    "main.js.map": "/monkey-theme-website/static/js/main.29786d3c.chunk.js.map",
+    "runtime-main.js": "/monkey-theme-website/static/js/runtime-main.c41f62e5.js",
+    "runtime-main.js.map": "/monkey-theme-website/static/js/runtime-main.c41f62e5.js.map",
+    "static/css/2.cd085f62.chunk.css": "/monkey-theme-website/static/css/2.cd085f62.chunk.css",
+    "static/js/2.f0de68b2.chunk.js": "/monkey-theme-website/static/js/2.f0de68b2.chunk.js",
+    "static/js/2.f0de68b2.chunk.js.map": "/monkey-theme-website/static/js/2.f0de68b2.chunk.js.map",
+    "static/js/3.9603191d.chunk.js": "/monkey-theme-website/static/js/3.9603191d.chunk.js",
+    "static/js/3.9603191d.chunk.js.map": "/monkey-theme-website/static/js/3.9603191d.chunk.js.map",
+    "index.html": "/monkey-theme-website/index.html",
+    "static/css/2.cd085f62.chunk.css.map": "/monkey-theme-website/static/css/2.cd085f62.chunk.css.map",
+    "static/css/main.162a34a7.chunk.css.map": "/monkey-theme-website/static/css/main.162a34a7.chunk.css.map",
+    "static/js/2.f0de68b2.chunk.js.LICENSE.txt": "/monkey-theme-website/static/js/2.f0de68b2.chunk.js.LICENSE.txt",
+    "static/media/1.a67f13ee.jpg": "/monkey-theme-website/static/media/1.a67f13ee.jpg",
+    "static/media/styles.css": "/monkey-theme-website/static/media/revicons.e8746a62.woff",
+    "static/media/Four.08ce39f4.jpeg": "/monkey-theme-website/static/media/Four.08ce39f4.jpeg",
+    "static/media/Three.08cbb40e.jpeg": "/monkey-theme-website/static/media/Three.08cbb40e.jpeg",
+    "static/media/Two.18d110bd.jpeg": "/monkey-theme-website/static/media/Two.18d110bd.jpeg",
+    "static/media/discord.87103b7f.png": "/monkey-theme-website/static/media/discord.87103b7f.png",
+    "static/media/hero-banner.e072feee.jpg": "/monkey-theme-website/static/media/hero-banner.e072feee.jpg",
+    "static/media/monkey-coin.a67f13ee.jpg": "/monkey-theme-website/static/media/monkey-coin.a67f13ee.jpg",
+    "static/media/monkey-coin2.80d0d262.jpg": "/monkey-theme-website/static/media/monkey-coin2.80d0d262.jpg",
+    "static/media/monkey-coin3.8cd04577.jpg": "/monkey-theme-website/static/media/monkey-coin3.8cd04577.jpg",
+    "static/media/slick-theme.css": "/monkey-theme-website/static/media/slick.c94f7671.ttf",
+    "static/media/twitter.28b4dce4.png": "/monkey-theme-website/static/media/twitter.28b4dce4.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c41f62e5.js",
+    "static/css/2.cd085f62.chunk.css",
+    "static/js/2.f0de68b2.chunk.js",
+    "static/css/main.162a34a7.chunk.css",
+    "static/js/main.29786d3c.chunk.js"
+  ]
+}
